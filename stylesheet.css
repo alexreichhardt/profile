@@ -128,7 +128,7 @@ ul {
 }
 
 .header-container {
-  display: inline;
+  display: inline-block;
   vertical-align: top;
 }
 
