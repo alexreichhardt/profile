@@ -124,7 +124,15 @@ ul {
 
 }
 
+.header-container {
+  display: inline;
+}
 
 #space-top {
   margin-top: 0px;
+}
+
+
+.side-header {
+  color: #189D74;
 }
