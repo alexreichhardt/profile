@@ -30,7 +30,6 @@ a:hover {
 
 .card {
   background-color: white;
-  border: 1px solid #189D74;
   border-radius: 5px;
   box-shadow: 2px 2px 5px rgb(80, 80, 80);
   padding: 10px;
@@ -101,6 +100,8 @@ ul {
 #sidebar {
   position: fixed;
   width: 200px;
+  margin-top: 0px;
+  top:0;
   left: 0;
   top: 0;
   bottom: 0;
@@ -109,7 +110,7 @@ ul {
   margin-left: 200px;
 }
 
-.btn {
+/*.btn {
   text-align: center;
   margin-top: 20px;
   padding: 20px 30px 20px 30px;
@@ -118,18 +119,27 @@ ul {
   color: white;
   background-color: rgb(200,200,200);
   border-radius: 3px;
-}
+}*/
 
-.btn:hover {
+/*.btn:hover {
   color: #189D74;
-}
+}*/
+
 
 .menu {
-  border-radius: 5px;
-  margin-top: 20px;
-  margin-bottom: 20px;
   width: 100%;
   height: 100%;
   background-color: white;
-  border: 1px solid #189D74;
+
+}
+
+ .center-list {
+  text-align: center;
+  padding-top: 130px;
+
+}
+
+
+#space-top {
+  margin-top: 0px;
 }
