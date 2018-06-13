@@ -111,7 +111,8 @@ ul {
 }
 
 .hr {
-  width = 200px
+  width: 75%;
+  border-width: 0.7px;
 }
 
 .menu {
@@ -140,4 +141,5 @@ ul {
 
 .side-header {
   color: #189D74;
+  display: flex;
 }
