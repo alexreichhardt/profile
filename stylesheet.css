@@ -126,6 +126,7 @@ ul {
 
 .header-container {
   display: inline;
+  vertical-align: top;
 }
 
 #space-top {
