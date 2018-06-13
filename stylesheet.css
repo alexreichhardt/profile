@@ -90,10 +90,8 @@ ul {
 .div-quarter {
 
   margin: 0px;
-  /*display: inline-block;*/
   width: 20%;
   text-align: justify;
- /*align-items: flex-start;*/
 }
 
 .div-side {
