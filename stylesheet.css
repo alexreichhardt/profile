@@ -116,7 +116,7 @@ ul {
   display: block;
   position: relative;
   padding: 0;
-  margin: 8px auto;
+  margin: 8px auto 15px auto;
   height: 0;
   max-height: 0;
   font-size: 1px;
