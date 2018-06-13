@@ -44,7 +44,7 @@ a:hover {
 }
 
 .container {
-  width: 60%;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -107,4 +107,9 @@ ul {
 }
 #page-content {
   margin-left: 300px;
+}
+
+.btn {
+  background-color: #189D74;
+  border-radius: 5px;
 }
