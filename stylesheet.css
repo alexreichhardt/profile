@@ -110,8 +110,9 @@ ul {
 }
 
 .btn {
+  text-align: center;
   margin: 20px;
-  padding: 10px;
+  padding: 0px 20px 0px 20px;
   width: 180px;
   height: 40px;
   color: white;
