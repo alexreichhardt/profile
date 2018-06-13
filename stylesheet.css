@@ -31,7 +31,7 @@ a:hover {
 .card {
   background-color: white;
   border-radius: 5px;
-  box-shadow: 2px 2px 5px rgb(80, 80, 80);
+  box-shadow: 2px 2px 0px #189D74;
   padding: 10px;
   margin: 20px auto;
   text-align: center;
