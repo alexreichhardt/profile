@@ -110,8 +110,10 @@ ul {
 }
 
 .btn {
+  padding: 10px
+  color: white;
   background-color: #189D74;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 .menu {
